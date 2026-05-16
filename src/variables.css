@@ -1,0 +1,15 @@
+:root {
+  --md-primary: #7c4dff;
+  --md-primary-container: #2b1f4f;
+
+  --md-surface-0: #121212;
+  --md-surface-1: #1e1e1e;
+  --md-surface-2: #242424;
+  --md-surface-3: #2d2d2d;
+
+  --md-text-primary: #ffffff;
+  --md-text-secondary: #b3b3b3;
+
+  --md-radius-md: 16px;
+  --md-radius-lg: 24px;
+}
