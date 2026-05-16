@@ -1,0 +1,5 @@
+body {
+  font-family: Inter, Google Sans, sans-serif;
+  background: var(--md-surface-0);
+  color: var(--md-text-primary);
+}
